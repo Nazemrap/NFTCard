@@ -50,7 +50,7 @@ body {
 }
 .NFTblock:after {
     opacity: 0;
-    content: url(/images/icon-view.svg);
+    content: url(./images/icon-view.svg);
     position: absolute;
     top: 42%;
     left: 42%;
