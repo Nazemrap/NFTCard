@@ -9,6 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [critic] (#critic)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -40,3 +41,7 @@ Also i learned a little bit more on the importance of the Mother and chill inter
 ### Continued development
 
 I tryed to work a bit more with the flex box. I'm using black border now to see how block are and how they interact with each other. 
+
+### Critic
+
+On the final result, i'm happy overall, but there is still this imperfect thing:  the ETH and clock are not quite aline with the text next to it. 
