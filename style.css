@@ -57,7 +57,7 @@ body {
 
 #NFT:after {
     opacity: 0;
-    content: url(./images/icon-view.svg);
+    content: url(images/icon-view.svg);
     position: absolute;
     top: 20%;
     left: 20%;
