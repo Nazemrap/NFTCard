@@ -1,6 +1,4 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -11,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -23,10 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:(https://github.com/Nazemrap/Frontend_Mentor.io)
+- Solution URL:(https://github.com/Nazemrap/NFTCard)
 - Live Site URL:(https://nazemrap.github.io/Frontend_Mentor.io/)
 
-## My process
 
 ### Built with
 
@@ -36,18 +32,11 @@ With the help of VCS Studio
 
 ### What I learned
 
-How to use github, i think i passed more time to understand how to upload and especially make a live site due to a problem in the deploying. I figured out that in the css there was one ";"missing. </br>
-By using "root" you HAVE to name your html "index" </br>
-with just that two change it passed from full red to full green. 
+Main difficulty was to get the little eye icone poping out of the NFT image. I had to cheat a little bit and check on other people. 
+I found out the ::before ::after thing and after checking on few youtube video, i tried to do it my self but it was a bit hard for me. 
 
-Otherwise, the "main" difficulty i got was to import and use a new font-familly ( The order in which you put the link matter more than i thought in the heading.) </br>
-And aligning the box to the borders.
+Also i learned a little bit more on the importance of the Mother and chill interaction, figured out that depending on who we apply style it might interact differently. 
 
 ### Continued development
 
-I mainly got some trouble to align the white square to the borders. I found a way to do it, but it might not be the most efficient. 
-
-
-## Acknowledgments
-
-I added a little bonus of mouse-over to the Qr code just for fun and try something 
+I tryed to work a bit more with the flex box. I'm using black border now to see how block are and how they interact with each other. 
