@@ -21,7 +21,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL:(https://github.com/Nazemrap/NFTCard)
-- Live Site URL:(https://nazemrap.github.io/Frontend_Mentor.io/)
+- Live Site URL:(https://nazemrap.github.io/NFTCard/)
 
 
 ### Built with
