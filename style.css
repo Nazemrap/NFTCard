@@ -55,9 +55,9 @@ body {
     background-color: hsl(178deg 100% 50% / 50%);
 }
 
-#NFT:after {
+#NFT::after {
     opacity: 0;
-    content: url(images/icon-view.svg);
+    content: url(./images/icon-view.svg);
     position: absolute;
     top: 20%;
     left: 20%;
